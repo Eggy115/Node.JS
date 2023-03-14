@@ -1,6 +1,7 @@
 const Chance = require('chance') // Load Chance
 const chance = new Chance() // Instantiate Chance so it can be used
 const fs = require('fs')
+const { log, getFileName } = require('utils.js')
 
 // Get First name
 exports.firstName = () => chance.first()
