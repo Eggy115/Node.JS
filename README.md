@@ -2,6 +2,14 @@
 
 # Node.js Repository
 
+ <p align="center">
+  <a href="#overview">overview</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a> •
+</p> 
+  
 [![GitHub issues](https://img.shields.io/github/issues/Eggy115/NodeJS)](https://github.com/Eggy115/NodeJS/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Eggy115/NodeJS)](https://github.com/Eggy115/NodeJS/network)
 [![GitHub stars](https://img.shields.io/github/stars/Eggy115/NodeJS)](https://github.com/Eggy115/NodeJS/stargazers)
@@ -9,17 +17,9 @@
 
 </div>
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
-Welcome to my Node.js repository! This repository contains a collection of scripts and projects that I've written using Node.js. All code in this repository is licensed under the GPL v3.0 license.
+This is my Node.js repository! This repository contains a collection of scripts and projects that I've written using Node.js. All code in this repository is licensed under the GPL v3.0 license.
 
 ## Installation
 
@@ -31,8 +31,8 @@ You can clone the repository, or t use a particular script or project, simply na
 
 ## Contributing
 
-Contributions to this repository are always welcome! If you have a script or project that you'd like to add, feel free to submit a pull request. Please make sure that your code adheres to the coding standards set forth in this repository.
+Contributions to this repository are always welcome! If you have a script or project that you'd like to add, feel free to submit a pull request. Please make sure that your script/project is well-documented and adheres to the guidelines outlined in the [Contributing](./CONTRIBUTING.md) file.
 
 ## License
+All scripts in this repository are released under the GPL v3 license. See the [LICENSE](./LICENSE) file for more details.
 
-All code in this repository is licensed under the GPL v3.0 license. Please see the LICENSE file for more information.
