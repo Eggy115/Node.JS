@@ -3,7 +3,7 @@
 # Node.js Repository
 
  <p align="center">
-  <a href="#overview">overview</a> •
+  <a href="#Overview">Overview</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
