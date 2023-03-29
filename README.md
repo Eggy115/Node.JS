@@ -27,7 +27,17 @@ To use any of the scripts or projects in this repository, you'll need to have No
 
 ## Usage
 
-You can clone the repository, or t use a particular script or project, simply navigate to the file and download it, or copy and paste the code.
+You can clone the repository, or to use a particular script or project, simply navigate to the file and download it, or copy and paste the code. To run the file, use the command:
+
+```py
+node filename
+```
+
+*OR* if `index.js`:
+
+```py
+node .
+```
 
 ## Contributing
 
