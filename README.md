@@ -39,6 +39,12 @@ node filename
 node .
 ```
 
+## Notable Projects
+
+- `/discord.js bot example`
+- `/node_modules`
+- `/`
+
 ## Contributing
 
 Contributions to this repository are always welcome! If you have a script or project that you'd like to add, feel free to submit a pull request. Please make sure that your script/project is well-documented and adheres to the guidelines outlined in the [Contributing](./CONTRIBUTING.md) file.
